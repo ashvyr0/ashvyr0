@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Lrya.👨‍💻👋
 
 ## I'm Lyra
 
