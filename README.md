@@ -1,20 +1,24 @@
 # Hey There! 🎉
 
-I'm Lrya, a coding enthusiast with a knack for turning coffee into code. Here's a peek into my world:
+Greetings! I'm [Your Name], a software developer with a strong background in full-stack development. My expertise lies in designing and implementing scalable solutions for complex problems. Here's a bit about my professional journey:
 
-## My Coding Adventures
+## Skills and Expertise
 
-- **Languages I Speak:** JavaScript, Python, Rust, Go
-- **Magic Spells (Frameworks):** React, Vue.js, Express, Flask
-- **Potions and Elixirs (Tools):** Git, Docker, Kubernetes, VS Code
+- **Languages:** JavaScript (ES6+), TypeScript, Python, Java
+- **Frameworks/Libraries:** React, Angular, Node.js, Django, Spring Boot
+- **DevOps:** Docker, Kubernetes, Jenkins, AWS
+- **Databases:** MySQL, PostgreSQL, MongoDB
 
-## Hobbies and Interests
+## Experience
 
-- **Gaming:** From retro classics to the latest AAA titles 🎮
-- **Reading:** Sci-fi, fantasy, and tech blogs 📚
-- **Traveling:** Exploring new places and cultures 🌍
+- **Current Role:** Senior Developer at [Company Name]
+- **Previous Roles:** Software Engineer at [Company Name], Intern at [Company Name]
 
-Feel free to dive into my repositories and drop me a message if you want to collaborate on something magical!
+## Education
+
+- **Degree:** B.S. in Computer Science from [University Name]
+
+I'm always looking for new challenges and opportunities to grow. Feel free to connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717)](https://github.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black)](https://yourportfolio.com)
