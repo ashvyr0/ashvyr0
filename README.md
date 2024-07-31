@@ -4,21 +4,17 @@ Greetings! I'm Lrya Grace, a software developer with a strong background in full
 
 ## Skills and Expertise
 
-- **Languages:** JavaScript (ES6+), TypeScript, Python, Java
+- **Languages:** Html, Css,JavaScript (ES6+), TypeScript, Python, Java
 - **Frameworks/Libraries:** React, Angular, Node.js, Django, Spring Boot
 - **DevOps:** Docker, Kubernetes, Jenkins, AWS
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
 ## Experience
 
-- **Current Role:** Senior Developer at [Company Name]
-- **Previous Roles:** Software Engineer at [Company Name], Intern at [Company Name]
+- **Current Role:** Senior Developer at Apple
 
 ## Education
 
-- **Degree:** B.S. in Computer Science from [University Name]
+- **Degree:** B.S. in Computer Science from Harvard University.
 
-I'm always looking for new challenges and opportunities to grow. Feel free to connect with me!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black)](https://yourportfolio.com)
+I'm always looking for new challenges and opportunities to grow.
