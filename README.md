@@ -1,6 +1,6 @@
 # Hey There! 🎉
 
-Greetings! I'm [Your Name], a software developer with a strong background in full-stack development. My expertise lies in designing and implementing scalable solutions for complex problems. Here's a bit about my professional journey:
+Greetings! I'm Lrya Grace, a software developer with a strong background in full-stack development. My expertise lies in designing and implementing scalable solutions for complex problems. Here's a bit about my professional journey:
 
 ## Skills and Expertise
 
