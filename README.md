@@ -1,7 +1,5 @@
 ## Hi, I am Lrya.👨‍💻👋
 
-## I'm Lyra
-
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
