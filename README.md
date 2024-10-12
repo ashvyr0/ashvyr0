@@ -4,7 +4,7 @@ Greetings! I'm Lrya Grace, a software developer with a strong background in full
 
 ## Skills and Expertise
 
-- **Languages:** Html, Css,JavaScript (ES6+), TypeScript, Python, Java
+- **Languages:** Html, Css,JavaScript (ES6+), TypeScript, Python, Java, Lua
 - **Frameworks/Libraries:** React, Angular, Node.js, Django, Spring Boot
 - **DevOps:** Docker, Kubernetes, Jenkins, AWS
 - **Databases:** MySQL, PostgreSQL, MongoDB
