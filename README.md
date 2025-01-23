@@ -1,11 +1,11 @@
-# 👋 Hello, I'm Lrya Grace!
+# 👋 Hello, I'm Lyra Grace!
 
-Welcome to my GitHub! I'm a **Senior Software Developer** at **Apple** with a passion for building scalable, efficient solutions to complex problems. I'm a full-stack developer with a strong focus on both front-end and back-end technologies.
+Welcome to my GitHub! I'm a **Senior Software Developer** at **Apple** with a passion for building scalable, efficient solutions to complex problems. As a full-stack developer, I excel in creating innovative and robust software across various domains.
 
 ## 🚀 Skills & Expertise
 
 - **Languages:**  
-  HTML, CSS, JavaScript (ES6+), TypeScript, Python, Java, Lua, **C++, C, C#**
+  HTML, CSS, JavaScript (ES6+), TypeScript, Python, Java, Lua, C++, C, C#
 
 - **Frameworks/Libraries:**  
   React, Angular, Node.js, Django, Spring Boot
@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm a **Senior Software Developer** at **Apple** with a pa
 ## 🎓 Education
 
 - **B.S. in Computer Science**  
-  _Harvard University_  
+  _Harvard University_
 
 ---
 
@@ -36,9 +36,9 @@ Welcome to my GitHub! I'm a **Senior Software Developer** at **Apple** with a pa
 
 - Designing and developing cutting-edge features at **Apple**.
 - Exploring **AI** and **Machine Learning** in real-world applications.
-- Contributing to open-source projects and learning new technologies.
+- Contributing to open-source projects and continuously learning new technologies.
 
 ---
 
 > "I believe in writing clean, maintainable code that solves real-world problems."  
-_— Lrya Grace_
+_— Lyra Grace_
