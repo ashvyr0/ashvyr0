@@ -23,4 +23,4 @@ Welcome to my GitHub! I'm a **Senior Software Developer** at **Apple**, passiona
 - **B.S. in Computer Science**  
   _Harvard University_
 
-!LyraXen's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyraXen&show_icons=true&theme=radical)
+![LyraXen's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyraXen&show_icons=true&theme=radical)
