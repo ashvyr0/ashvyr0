@@ -1,20 +1,58 @@
-# Hey There! 🎉
+# 👋 Hello, I'm Lrya Grace!
 
-Greetings! I'm Lrya Grace, a software developer with a strong background in full-stack development. My expertise lies in designing and implementing scalable solutions for complex problems. Here's a bit about my professional journey:
+Welcome to my GitHub! I'm a **Senior Software Developer** at **Apple** with a passion for building scalable, efficient solutions to complex problems. I'm a full-stack developer with a strong focus on both front-end and back-end technologies.
 
-## Skills and Expertise
+## 🚀 Skills & Expertise
 
-- **Languages:** Html, Css,JavaScript (ES6+), TypeScript, Python, Java, Lua
-- **Frameworks/Libraries:** React, Angular, Node.js, Django, Spring Boot
-- **DevOps:** Docker, Kubernetes, Jenkins, AWS
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Languages:**  
+  HTML, CSS, JavaScript (ES6+), TypeScript, Python, Java, Lua
 
-## Experience
+- **Frameworks/Libraries:**  
+  React, Angular, Node.js, Django, Spring Boot
 
-- **Current Role:** Senior Developer at Apple
+- **DevOps & Cloud:**  
+  Docker, Kubernetes, Jenkins, AWS
 
-## Education
+- **Databases:**  
+  MySQL, PostgreSQL, MongoDB
 
-- **Degree:** B.S. in Computer Science from Harvard University.
+---
 
-I'm always looking for new challenges and opportunities to grow.
+## 💼 Current Role
+
+- **Senior Developer** at **Apple**  
+  Leading teams to build innovative, scalable software solutions that enhance the user experience.
+
+---
+
+## 🎓 Education
+
+- **B.S. in Computer Science**  
+  _Harvard University_  
+
+---
+
+## 🔥 What I'm Currently Working On
+
+- Designing and developing cutting-edge features at **Apple**.
+- Exploring **AI** and **Machine Learning** in real-world applications.
+- Contributing to open-source projects and learning new technologies.
+
+---
+
+## 📈 GitHub Stats
+
+![Lrya Grace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lryagrace&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+---
+
+## 🌐 Let's Connect!
+
+- **LinkedIn:** [linkedin.com/in/lryagrace](https://linkedin.com/in/lryagrace)
+- **Twitter:** [@lryagrace](https://twitter.com/lryagrace)
+- **Website/Portfolio:** [lryagrace.dev](https://lryagrace.dev) *(if applicable)*
+
+---
+
+> "I believe in writing clean, maintainable code that solves real-world problems."  
+_— Lrya Grace_
