@@ -17,31 +17,9 @@ Welcome to my GitHub! I'm a **Senior Software Developer** at **Apple** with a pa
   MySQL, PostgreSQL, MongoDB
 
 ---
-
-## 💼 Current Role
-
-- **Senior Developer** at **Apple**  
-  Leading teams to build innovative, scalable software solutions that enhance the user experience.
-
----
-
 ## 🎓 Education
 
 - **B.S. in Computer Science**  
   _Harvard University_
 
----
-
-## 🔥 What I'm Currently Working On
-
-- Designing and developing cutting-edge features at **Apple**.
-- Exploring **AI** and **Machine Learning** in real-world applications.
-- Contributing to open-source projects and continuously learning new technologies.
-
----
-
-> "I believe in writing clean, maintainable code that solves real-world problems."  
-_— Lyra Grace_
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyraXen&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=LyraXen&show_icons=true&theme=radical)
