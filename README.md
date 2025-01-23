@@ -42,3 +42,6 @@ Welcome to my GitHub! I'm a **Senior Software Developer** at **Apple** with a pa
 
 > "I believe in writing clean, maintainable code that solves real-world problems."  
 _— Lyra Grace_
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
