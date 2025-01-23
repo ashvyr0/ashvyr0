@@ -44,4 +44,4 @@ Welcome to my GitHub! I'm a **Senior Software Developer** at **Apple** with a pa
 _— Lyra Grace_
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyraXen&show_icons=true&theme=radical)
