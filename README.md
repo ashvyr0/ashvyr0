@@ -40,11 +40,5 @@ Welcome to my GitHub! I'm a **Senior Software Developer** at **Apple** with a pa
 
 ---
 
-## 📈 GitHub Stats
-
-![Lrya Grace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lryagrace&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
----
-
 > "I believe in writing clean, maintainable code that solves real-world problems."  
 _— Lrya Grace_
