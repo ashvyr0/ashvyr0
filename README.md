@@ -1,13 +1,13 @@
 # 👋 Hello, I'm Lyra Grace!
 
-Welcome to my GitHub! I'm a **Senior Software Developer** at **Apple** with a passion for building scalable, efficient solutions to complex problems. As a full-stack developer, I excel in creating innovative and robust software across various domains.
+Welcome to my GitHub! I'm a **Senior Software Developer** at **Apple**, passionate about building scalable and efficient solutions to complex problems. As a full-stack developer, I specialize in creating innovative, high-performance software across a variety of domains.
 
 ## 🚀 Skills & Expertise
 
 - **Languages:**  
   HTML, CSS, JavaScript (ES6+), TypeScript, Python, Java, Lua, C++, C, C#
 
-- **Frameworks/Libraries:**  
+- **Frameworks & Libraries:**  
   React, Angular, Node.js, Django, Spring Boot
 
 - **DevOps & Cloud:**  
@@ -17,9 +17,10 @@ Welcome to my GitHub! I'm a **Senior Software Developer** at **Apple** with a pa
   MySQL, PostgreSQL, MongoDB
 
 ---
+
 ## 🎓 Education
 
 - **B.S. in Computer Science**  
   _Harvard University_
 
-(https://github-readme-stats.vercel.app/api?username=LyraXen&show_icons=true&theme=radical)
+!LyraXen's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyraXen&show_icons=true&theme=radical)
