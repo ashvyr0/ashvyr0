@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a **Senior Software Developer** at **Apple** with a pa
 ## 🚀 Skills & Expertise
 
 - **Languages:**  
-  HTML, CSS, JavaScript (ES6+), TypeScript, Python, Java, Lua
+  HTML, CSS, JavaScript (ES6+), TypeScript, Python, Java, Lua, **C++, C, C#**
 
 - **Frameworks/Libraries:**  
   React, Angular, Node.js, Django, Spring Boot
@@ -43,14 +43,6 @@ Welcome to my GitHub! I'm a **Senior Software Developer** at **Apple** with a pa
 ## 📈 GitHub Stats
 
 ![Lrya Grace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lryagrace&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
----
-
-## 🌐 Let's Connect!
-
-- **LinkedIn:** [linkedin.com/in/lryagrace](https://linkedin.com/in/lryagrace)
-- **Twitter:** [@lryagrace](https://twitter.com/lryagrace)
-- **Website/Portfolio:** [lryagrace.dev](https://lryagrace.dev) *(if applicable)*
 
 ---
 
