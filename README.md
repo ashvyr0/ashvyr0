@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Lyra Grace!
 
-I like coding
-
 ## 💻 Skills
 
 - HTML, CSS, JavaScript, Python, Lua, C#
