@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lyra Grace!
+# 👋 Hi, I'm Lyra!
 
 ## 💻 Skills
 
