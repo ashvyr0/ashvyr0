@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashley!
+# 👋 Hi, I'm Lyra!
 
 ## 💻 Skills
 
