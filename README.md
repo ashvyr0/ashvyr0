@@ -8,4 +8,4 @@
 
 ## 📊 GitHub Stats
 
-![LyraXen's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyraXen&show_icons=true&theme=radical)
+![LyraXen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashvyr0&show_icons=true&theme=radical)
