@@ -2,8 +2,8 @@
 
 ## 💻 Skills
 - **Languages:** Python, C++, HTML, CSS, JavaScript
-- React, Node.js, Django
-- MySQL, PostgreSQL, MongoDB
+- **Frameworks:** React, Node.js, Django
+- **Databases:** MySQL, PostgreSQL, MongoDB
 
 ## 📊 GitHub Stats
 
